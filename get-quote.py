@@ -7,5 +7,5 @@ def practise():
 
   #print(quotes)
 
-if __name__== "__practise__":
-  main()
+if __name__== "__main__":
+  practise()
